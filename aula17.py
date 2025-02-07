@@ -2,7 +2,7 @@
 # se / se não se / se não
 condicao1 = False
 condicao2 = False
-condicao3 = False
+condicao3 = True
 condicao4 = False
 
 if condicao1:
