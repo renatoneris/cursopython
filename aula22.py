@@ -24,7 +24,3 @@ print(True and True and True)
 #Avaliação de curto circuito
 #or
 print(0 or False or 0 or 'abc' or True)
-
-print('oi')
-
-
