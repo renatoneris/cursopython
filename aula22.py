@@ -25,6 +25,6 @@ print(True and True and True)
 #or
 print(0 or False or 0 or 'abc' or True)
 
-
+print('oi')
 
 
